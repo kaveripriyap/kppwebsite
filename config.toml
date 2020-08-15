@@ -7,9 +7,9 @@ theme = "sam"
     text = "Who is Kaveri?"
 
 [[params.mainMenu]]
-    link = "/meow"
+    link = "meow"
     text = "I also meow"
 
 [[params.mainMenu]]
-    link = "/random"
-    text = "Fun Facts!"
+    link = "github"
+    text = "GitHub"
