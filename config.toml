@@ -1,0 +1,15 @@
+baseURL = "http://kaveripriyap.com/" 
+languageCode = "en-us" 
+title = "Kaveri Priya Putti" 
+theme = "sam" 
+[[params.mainMenu]]
+    link = "about"
+    text = "Who is Kaveri?"
+
+[[params.mainMenu]]
+    link = "/meow"
+    text = "I also meow"
+
+[[params.mainMenu]]
+    link = "/random"
+    text = "Fun Facts!"
