@@ -11,5 +11,5 @@ theme = "sam"
     text = "I also meow"
 
 [[params.mainMenu]]
-    link = "github"
+    link = "https://github.com/kaveripriyap"
     text = "GitHub"
